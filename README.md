@@ -1,4 +1,5 @@
 Team ID: 6997f7d8b750b5acb2d66d5e 
+
 Strategic Product Visibility and Placement Analysis Using Interactive Data Science
 1.	Introduction
 
